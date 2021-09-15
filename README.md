@@ -1,2 +1,2 @@
-# gitTotorial
-GitHub totorial
+# gitTutorial
+GitHub tutorial
